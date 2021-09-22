@@ -1,0 +1,15 @@
+.formy {
+  background-color: rgb(13, 78, 199);
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+}
+.buttonsubmit:hover {
+  background-color: rgb(13, 78, 199);
+  color: whitesmoke;
+  transition: 1s;
+}
+.buttonsubmit {
+  margin-left: 10px;
+  border-radius: 10px;
+}
