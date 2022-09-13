@@ -1,9 +1,9 @@
-import Todo from "./component/Todo"
 import './App.css';
+import Board1 from './Board';
 function App() {
   return (
     <div className="App">
-    <Todo/>
+    <Board1/>
     </div>
   );
 }
